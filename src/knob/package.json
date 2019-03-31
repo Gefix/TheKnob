@@ -1,0 +1,15 @@
+{
+  "name": "knob",
+  "version": "1.0.0",
+  "description": "Wireless knob decoder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitar Blagoev",
+  "license": "MIT",
+  "dependencies": {
+    "pigpio": "^1.2.2"
+  }
+}
