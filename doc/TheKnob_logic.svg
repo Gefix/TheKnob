@@ -1,0 +1,3787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="2222.5"
+   height="1200"
+   id="svg932"
+   sodipodi:docname="TheKnob_logic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata936">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1261"
+     id="namedview934"
+     showgrid="false"
+     inkscape:zoom="0.61012373"
+     inkscape:cx="741.30809"
+     inkscape:cy="700.66594"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg932" />
+  <defs
+     id="defs2" />
+  <g
+     id="g930">
+    <rect
+       x="0"
+       y="0"
+       width="1721"
+       height="955"
+       id="rect4"
+       stroke="none"
+       fill="#FFFFFF" />
+    <path
+       id="path6"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1460"
+       y="75"
+       dominant-baseline="alphabetic"
+       id="text8"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">Turning CW : 25% Duty Cycle</text>
+    <path
+       id="path10"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1460"
+       y="385"
+       dominant-baseline="alphabetic"
+       id="text12"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">Turning CW : 100% Duty Cycle</text>
+    <path
+       id="path14"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1460"
+       y="665"
+       dominant-baseline="alphabetic"
+       id="text16"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">Turning CCW : 100% Duty Cycle</text>
+    <path
+       id="path18"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1460"
+       y="325"
+       dominant-baseline="alphabetic"
+       id="text20"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">Turning CW : 75% Duty Cycle</text>
+    <path
+       id="path22"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1460"
+       y="725"
+       dominant-baseline="alphabetic"
+       id="text24"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">Turning CCW : 75% Duty Cycle</text>
+    <path
+       id="path26"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="60"
+       y="505"
+       dominant-baseline="alphabetic"
+       id="text28"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">A</text>
+    <path
+       id="path30"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="60"
+       y="545"
+       dominant-baseline="alphabetic"
+       id="text32"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">B</text>
+    <path
+       id="path34"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="60"
+       y="855"
+       dominant-baseline="alphabetic"
+       id="text36"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">C</text>
+    <path
+       id="path38"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="14px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="60"
+       y="895"
+       dominant-baseline="alphabetic"
+       id="text40"
+       text-anchor="start"
+       font-family="Georgia"
+       stroke="none"
+       fill="black">D</text>
+    <path
+       d=" M 810.5 350.5 L 820.5 350.5 L 820.5 350.5 A 20 20 0 0 1 820.5 390.5 L 810.5 390.5 L 810.5 350.5 Z"
+       stroke-miterlimit="10"
+       id="path42"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 850 370 A 5 5 0 1 1 849.9999975000002 369.99500000083333"
+       stroke-miterlimit="10"
+       id="path44"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 810.5 450.5 L 820.5 450.5 L 820.5 450.5 A 20 20 0 0 1 820.5 490.5 L 810.5 490.5 L 810.5 450.5 Z"
+       stroke-miterlimit="10"
+       id="path46"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 850 470 A 5 5 0 1 1 849.9999975000002 469.99500000083333"
+       stroke-miterlimit="10"
+       id="path48"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 420.5 500.5 L 430.5 500.5 L 430.5 500.5 A 20 20 0 0 1 430.5 540.5 L 420.5 540.5 L 420.5 500.5 Z"
+       stroke-miterlimit="10"
+       id="path50"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 460 520 A 5 5 0 1 1 459.99999750000023 519.9950000008333"
+       stroke-miterlimit="10"
+       id="path52"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 810.5 550.5 L 820.5 550.5 L 820.5 550.5 A 20 20 0 0 1 820.5 590.5 L 810.5 590.5 L 810.5 550.5 Z"
+       stroke-miterlimit="10"
+       id="path54"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 850 570 A 5 5 0 1 1 849.9999975000002 569.9950000008333"
+       stroke-miterlimit="10"
+       id="path56"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 810.5 650.5 L 820.5 650.5 L 820.5 650.5 A 20 20 0 0 1 820.5 690.5 L 810.5 690.5 L 810.5 650.5 Z"
+       stroke-miterlimit="10"
+       id="path58"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 850 670 A 5 5 0 1 1 849.9999975000002 669.9950000008333"
+       stroke-miterlimit="10"
+       id="path60"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 520.5 620.5 L 530.5 620.5 L 530.5 620.5 A 20 20 0 0 1 530.5 660.5 L 520.5 660.5 L 520.5 620.5 Z"
+       stroke-miterlimit="10"
+       id="path62"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 560 640 A 5 5 0 1 1 559.9999975000002 639.9950000008333"
+       stroke-miterlimit="10"
+       id="path64"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 920.5 500.5 L 930.5 500.5 L 930.5 500.5 A 20 20 0 0 1 930.5 540.5 L 920.5 540.5 L 920.5 500.5 Z"
+       stroke-miterlimit="10"
+       id="path66"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 960 520 A 5 5 0 1 1 959.9999975000002 519.9950000008333"
+       stroke-miterlimit="10"
+       id="path68"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 710.5 660.5 L 720.5 660.5 L 720.5 660.5 A 20 20 0 0 1 720.5 700.5 L 710.5 700.5 L 710.5 660.5 Z"
+       stroke-miterlimit="10"
+       id="path70"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 750 680 A 5 5 0 1 1 749.9999975000002 679.9950000008333"
+       stroke-miterlimit="10"
+       id="path72"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 710.5 340.5 L 720.5 340.5 L 720.5 340.5 A 20 20 0 0 1 720.5 380.5 L 710.5 380.5 L 710.5 340.5 Z"
+       stroke-miterlimit="10"
+       id="path74"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 750 360 A 5 5 0 1 1 749.9999975000002 359.99500000083333"
+       stroke-miterlimit="10"
+       id="path76"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 520.5 380.5 L 530.5 380.5 L 530.5 380.5 A 20 20 0 0 1 530.5 420.5 L 520.5 420.5 L 520.5 380.5 Z"
+       stroke-miterlimit="10"
+       id="path78"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 560 400 A 5 5 0 1 1 559.9999975000002 399.99500000083333"
+       stroke-miterlimit="10"
+       id="path80"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1250.5 360.5 L 1260.5 360.5 L 1260.5 360.5 A 20 20 0 0 1 1260.5 400.5 L 1250.5 400.5 L 1250.5 360.5 Z"
+       stroke-miterlimit="10"
+       id="path82"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1290 380 A 5 5 0 1 1 1289.9999975000003 379.99500000083333"
+       stroke-miterlimit="10"
+       id="path84"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1250.5 460.5 L 1260.5 460.5 L 1260.5 460.5 A 20 20 0 0 1 1260.5 500.5 L 1250.5 500.5 L 1250.5 460.5 Z"
+       stroke-miterlimit="10"
+       id="path86"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1290 480 A 5 5 0 1 1 1289.9999975000003 479.99500000083333"
+       stroke-miterlimit="10"
+       id="path88"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1250.5 640.5 L 1260.5 640.5 L 1260.5 640.5 A 20 20 0 0 1 1260.5 680.5 L 1250.5 680.5 L 1250.5 640.5 Z"
+       stroke-miterlimit="10"
+       id="path90"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1290 660 A 5 5 0 1 1 1289.9999975000003 659.9950000008333"
+       stroke-miterlimit="10"
+       id="path92"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1250.5 540.5 L 1260.5 540.5 L 1260.5 540.5 A 20 20 0 0 1 1260.5 580.5 L 1250.5 580.5 L 1250.5 540.5 Z"
+       stroke-miterlimit="10"
+       id="path94"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1290 560 A 5 5 0 1 1 1289.9999975000003 559.9950000008333"
+       stroke-miterlimit="10"
+       id="path96"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 420.5 850.5 L 430.5 850.5 L 430.5 850.5 A 20 20 0 0 1 430.5 890.5 L 420.5 890.5 L 420.5 850.5 Z"
+       stroke-miterlimit="10"
+       id="path98"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 460 870 A 5 5 0 1 1 459.99999750000023 869.9950000008333"
+       stroke-miterlimit="10"
+       id="path100"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 920.5 840.5 L 930.5 840.5 L 930.5 840.5 A 20 20 0 0 1 930.5 880.5 L 920.5 880.5 L 920.5 840.5 Z"
+       stroke-miterlimit="10"
+       id="path102"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 960 860 A 5 5 0 1 1 959.9999975000002 859.9950000008333"
+       stroke-miterlimit="10"
+       id="path104"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1110.5 830.5 L 1120.5 830.5 L 1120.5 830.5 A 20 20 0 0 1 1120.5 870.5 L 1110.5 870.5 L 1110.5 830.5 Z"
+       stroke-miterlimit="10"
+       id="path106"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1150 850 A 5 5 0 1 1 1149.9999975000003 849.9950000008333"
+       stroke-miterlimit="10"
+       id="path108"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1110.5 170.5 L 1120.5 170.5 L 1120.5 170.5 A 20 20 0 0 1 1120.5 210.5 L 1110.5 210.5 L 1110.5 170.5 Z"
+       stroke-miterlimit="10"
+       id="path110"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1150 190 A 5 5 0 1 1 1149.9999975000003 189.99500000083333"
+       stroke-miterlimit="10"
+       id="path112"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1220.5 50.5 L 1230.5 50.5 L 1230.5 50.5 A 20 20 0 0 1 1230.5 90.5 L 1220.5 90.5 L 1220.5 50.5 Z"
+       stroke-miterlimit="10"
+       id="path114"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1260 70 A 5 5 0 1 1 1259.9999975000003 69.99500000083333"
+       stroke-miterlimit="10"
+       id="path116"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 320.5 460.5 L 340.5 470.5 L 320.5 480.5 Z"
+       stroke-miterlimit="10"
+       id="path118"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 350 470 A 5 5 0 1 1 349.99999750000023 469.99500000083333"
+       stroke-miterlimit="10"
+       id="path120"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 320.5 560.5 L 340.5 570.5 L 320.5 580.5 Z"
+       stroke-miterlimit="10"
+       id="path122"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 350 570 A 5 5 0 1 1 349.99999750000023 569.9950000008333"
+       stroke-miterlimit="10"
+       id="path124"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 620.5 380.5 L 640.5 390.5 L 620.5 400.5 Z"
+       stroke-miterlimit="10"
+       id="path126"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 650 390 A 5 5 0 1 1 649.9999975000002 389.99500000083333"
+       stroke-miterlimit="10"
+       id="path128"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 620.5 640.5 L 640.5 650.5 L 620.5 660.5 Z"
+       stroke-miterlimit="10"
+       id="path130"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 650 650 A 5 5 0 1 1 649.9999975000002 649.9950000008333"
+       stroke-miterlimit="10"
+       id="path132"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1110.5 360.5 L 1130.5 370.5 L 1110.5 380.5 Z"
+       stroke-miterlimit="10"
+       id="path134"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1140 370 A 5 5 0 1 1 1139.9999975000003 369.99500000083333"
+       stroke-miterlimit="10"
+       id="path136"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1110.5 660.5 L 1130.5 670.5 L 1110.5 680.5 Z"
+       stroke-miterlimit="10"
+       id="path138"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1140 670 A 5 5 0 1 1 1139.9999975000003 669.9950000008333"
+       stroke-miterlimit="10"
+       id="path140"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 990.5 510.5 L 1010.5 520.5 L 990.5 530.5 Z"
+       stroke-miterlimit="10"
+       id="path142"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1020 520 A 5 5 0 1 1 1019.9999975000002 519.9950000008333"
+       stroke-miterlimit="10"
+       id="path144"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 320.5 840.5 L 340.5 850.5 L 320.5 860.5 Z"
+       stroke-miterlimit="10"
+       id="path146"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 350 850 A 5 5 0 1 1 349.99999750000023 849.9950000008333"
+       stroke-miterlimit="10"
+       id="path148"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 320.5 880.5 L 340.5 890.5 L 320.5 900.5 Z"
+       stroke-miterlimit="10"
+       id="path150"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 350 890 A 5 5 0 1 1 349.99999750000023 889.9950000008333"
+       stroke-miterlimit="10"
+       id="path152"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 820.5 840.5 L 840.5 850.5 L 820.5 860.5 Z"
+       stroke-miterlimit="10"
+       id="path154"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 850 850 A 5 5 0 1 1 849.9999975000002 849.9950000008333"
+       stroke-miterlimit="10"
+       id="path156"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 820.5 860.5 L 840.5 870.5 L 820.5 880.5 Z"
+       stroke-miterlimit="10"
+       id="path158"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 850 870 A 5 5 0 1 1 849.9999975000002 869.9950000008333"
+       stroke-miterlimit="10"
+       id="path160"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1180.5 840.5 L 1200.5 850.5 L 1180.5 860.5 Z"
+       stroke-miterlimit="10"
+       id="path162"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1210 850 A 5 5 0 1 1 1209.9999975000003 849.9950000008333"
+       stroke-miterlimit="10"
+       id="path164"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1180.5 180.5 L 1200.5 190.5 L 1180.5 200.5 Z"
+       stroke-miterlimit="10"
+       id="path166"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1210 190 A 5 5 0 1 1 1209.9999975000003 189.99500000083333"
+       stroke-miterlimit="10"
+       id="path168"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1300.5 60.5 L 1320.5 70.5 L 1300.5 80.5 Z"
+       stroke-miterlimit="10"
+       id="path170"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       d=" M 1330 70 A 5 5 0 1 1 1329.9999975000003 69.99500000083333"
+       stroke-miterlimit="10"
+       id="path172"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="none" />
+    <path
+       d=" M 1420.5 370.5 L 1440.5 370.5 L 1440.5 390.5 L 1420.5 390.5 L 1420.5 370.5 Z"
+       stroke-miterlimit="10"
+       id="path174"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="blue"
+       fill="white" />
+    <path
+       id="path176"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1430"
+       y="385"
+       dominant-baseline="alphabetic"
+       id="text178"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">1</text>
+    <path
+       d=" M 1420.5 650.5 L 1440.5 650.5 L 1440.5 670.5 L 1420.5 670.5 L 1420.5 650.5 Z"
+       stroke-miterlimit="10"
+       id="path180"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="blue"
+       fill="white" />
+    <path
+       id="path182"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1430"
+       y="665"
+       dominant-baseline="alphabetic"
+       id="text184"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">0</text>
+    <path
+       d=" M 1420.5 60.5 L 1440.5 60.5 L 1440.5 80.5 L 1420.5 80.5 L 1420.5 60.5 Z"
+       stroke-miterlimit="10"
+       id="path186"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="blue"
+       fill="white" />
+    <path
+       id="path188"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1430"
+       y="75"
+       dominant-baseline="alphabetic"
+       id="text190"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">0</text>
+    <path
+       d=" M 1420.5 310.5 L 1440.5 310.5 L 1440.5 330.5 L 1420.5 330.5 L 1420.5 310.5 Z"
+       stroke-miterlimit="10"
+       id="path192"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="blue"
+       fill="white" />
+    <path
+       id="path194"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1430"
+       y="325"
+       dominant-baseline="alphabetic"
+       id="text196"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">1</text>
+    <path
+       d=" M 1420.5 710.5 L 1440.5 710.5 L 1440.5 730.5 L 1420.5 730.5 L 1420.5 710.5 Z"
+       stroke-miterlimit="10"
+       id="path198"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="blue"
+       fill="white" />
+    <path
+       id="path200"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="1430"
+       y="725"
+       dominant-baseline="alphabetic"
+       id="text202"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">0</text>
+    <path
+       d=" M 90.5 530.5 L 110.5 530.5 L 110.5 550.5 L 90.5 550.5 L 90.5 530.5 Z"
+       stroke-miterlimit="10"
+       id="path204"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       id="path206"
+       stroke="none"
+       fill="none" />
+    <path
+       id="path208"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="100"
+       y="545"
+       dominant-baseline="alphabetic"
+       id="text210"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">1</text>
+    <path
+       d=" M 90.5 490.5 L 110.5 490.5 L 110.5 510.5 L 90.5 510.5 L 90.5 490.5 Z"
+       stroke-miterlimit="10"
+       id="path212"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill-opacity="0.8"
+       fill="rgb(255,255,32)" />
+    <path
+       id="path214"
+       stroke="none"
+       fill="none" />
+    <path
+       id="path216"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="100"
+       y="505"
+       dominant-baseline="alphabetic"
+       id="text218"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">0</text>
+    <path
+       d=" M 90.5 840.5 L 110.5 840.5 L 110.5 860.5 L 90.5 860.5 L 90.5 840.5 Z"
+       stroke-miterlimit="10"
+       id="path220"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       id="path222"
+       stroke="none"
+       fill="none" />
+    <path
+       id="path224"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="100"
+       y="855"
+       dominant-baseline="alphabetic"
+       id="text226"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">1</text>
+    <path
+       d=" M 90.5 880.5 L 110.5 880.5 L 110.5 900.5 L 90.5 900.5 L 90.5 880.5 Z"
+       stroke-miterlimit="10"
+       id="path228"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-width="3"
+       stroke="black"
+       fill="white" />
+    <path
+       id="path230"
+       stroke="none"
+       fill="none" />
+    <path
+       id="path232"
+       stroke="none"
+       fill="none" />
+    <text
+       font-size="20px"
+       font-style="normal"
+       font-weight="normal"
+       text-decoration="normal"
+       x="100"
+       y="895"
+       dominant-baseline="alphabetic"
+       id="text234"
+       text-anchor="middle"
+       font-family="Georgia"
+       stroke="none"
+       fill="green">0</text>
+    <path
+       d=" M 810 360.5 L 750 360.5"
+       stroke-miterlimit="10"
+       id="path236"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 810 380.5 L 770 380.5"
+       stroke-miterlimit="10"
+       id="path238"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 850 370.5 L 890 370.5"
+       stroke-miterlimit="10"
+       id="path240"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 810 460.5 L 790 460.5"
+       stroke-miterlimit="10"
+       id="path242"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 810 480.5 L 720 480.5"
+       stroke-miterlimit="10"
+       id="path244"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 850 470.5 L 890 470.5"
+       stroke-miterlimit="10"
+       id="path246"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 720.5 480 L 720.5 520"
+       stroke-miterlimit="10"
+       id="path248"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 890.5 470 L 890.5 420"
+       stroke-miterlimit="10"
+       id="path250"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 890.5 470 L 890.5 510"
+       stroke-miterlimit="10"
+       id="path252"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 890 420.5 L 770 420.5"
+       stroke-miterlimit="10"
+       id="path254"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 770.5 420 L 770.5 380"
+       stroke-miterlimit="10"
+       id="path256"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 890.5 370 L 890.5 400"
+       stroke-miterlimit="10"
+       id="path258"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 890 370.5 L 970 370.5"
+       stroke-miterlimit="10"
+       id="path260"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 890 400.5 L 790 400.5"
+       stroke-miterlimit="10"
+       id="path262"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 790.5 400 L 790.5 460"
+       stroke-miterlimit="10"
+       id="path264"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 110 540.5 L 260 540.5"
+       stroke-miterlimit="10"
+       id="path266"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 110 500.5 L 260 500.5"
+       stroke-miterlimit="10"
+       id="path268"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 420 510.5 L 390 510.5"
+       stroke-miterlimit="10"
+       id="path270"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 420 530.5 L 390 530.5"
+       stroke-miterlimit="10"
+       id="path272"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 460 520.5 L 490 520.5"
+       stroke-miterlimit="10"
+       id="path274"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 810 560.5 L 720 560.5"
+       stroke-miterlimit="10"
+       id="path276"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 810 580.5 L 790 580.5"
+       stroke-miterlimit="10"
+       id="path278"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 850 570.5 L 890 570.5"
+       stroke-miterlimit="10"
+       id="path280"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 810 660.5 L 770 660.5"
+       stroke-miterlimit="10"
+       id="path282"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 810 680.5 L 750 680.5"
+       stroke-miterlimit="10"
+       id="path284"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 850 670.5 L 890 670.5"
+       stroke-miterlimit="10"
+       id="path286"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 890 620.5 L 770 620.5"
+       stroke-miterlimit="10"
+       id="path288"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 890.5 620 L 890.5 570"
+       stroke-miterlimit="10"
+       id="path290"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 770.5 620 L 770.5 660"
+       stroke-miterlimit="10"
+       id="path292"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 890.5 570 L 890.5 530"
+       stroke-miterlimit="10"
+       id="path294"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 790.5 580 L 790.5 640"
+       stroke-miterlimit="10"
+       id="path296"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 790 640.5 L 890 640.5"
+       stroke-miterlimit="10"
+       id="path298"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 890.5 640 L 890.5 670"
+       stroke-miterlimit="10"
+       id="path300"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 890 670.5 L 1010 670.5"
+       stroke-miterlimit="10"
+       id="path302"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 720.5 560 L 720.5 520"
+       stroke-miterlimit="10"
+       id="path304"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 520 630.5 L 390 630.5"
+       stroke-miterlimit="10"
+       id="path306"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 520 650.5 L 280 650.5"
+       stroke-miterlimit="10"
+       id="path308"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 560 640.5 L 590 640.5"
+       stroke-miterlimit="10"
+       id="path310"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 920 510.5 L 890 510.5"
+       stroke-miterlimit="10"
+       id="path312"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 920 530.5 L 890 530.5"
+       stroke-miterlimit="10"
+       id="path314"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 960 520.5 L 990 520.5"
+       stroke-miterlimit="10"
+       id="path316"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 710 670.5 L 680 670.5"
+       stroke-miterlimit="10"
+       id="path318"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 710 690.5 L 680 690.5"
+       stroke-miterlimit="10"
+       id="path320"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 680.5 650 L 680.5 670"
+       stroke-miterlimit="10"
+       id="path322"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 680 650.5 L 650 650.5"
+       stroke-miterlimit="10"
+       id="path324"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 680.5 690 L 680.5 750"
+       stroke-miterlimit="10"
+       id="path326"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 680 750.5 L 1050 750.5"
+       stroke-miterlimit="10"
+       id="path328"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 590.5 640 L 590.5 650"
+       stroke-miterlimit="10"
+       id="path330"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1050.5 520 L 1050.5 290"
+       stroke-miterlimit="10"
+       id="path332"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1050.5 520 L 1050.5 750"
+       stroke-miterlimit="10"
+       id="path334"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1050 520.5 L 1020 520.5"
+       stroke-miterlimit="10"
+       id="path336"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 710 350.5 L 680 350.5"
+       stroke-miterlimit="10"
+       id="path338"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 710 370.5 L 680 370.5"
+       stroke-miterlimit="10"
+       id="path340"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 680.5 350 L 680.5 290"
+       stroke-miterlimit="10"
+       id="path342"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 680.5 390 L 680.5 370"
+       stroke-miterlimit="10"
+       id="path344"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 680 390.5 L 660 390.5"
+       stroke-miterlimit="10"
+       id="path346"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 520 390.5 L 290 390.5"
+       stroke-miterlimit="10"
+       id="path348"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 520 410.5 L 390 410.5"
+       stroke-miterlimit="10"
+       id="path350"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 560 400.5 L 590 400.5"
+       stroke-miterlimit="10"
+       id="path352"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 590.5 400 L 590.5 390"
+       stroke-miterlimit="10"
+       id="path354"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1050 290.5 L 680 290.5"
+       stroke-miterlimit="10"
+       id="path356"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 390.5 410 L 390.5 470"
+       stroke-miterlimit="10"
+       id="path358"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 390.5 630 L 390.5 570"
+       stroke-miterlimit="10"
+       id="path360"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 390.5 530 L 390.5 570"
+       stroke-miterlimit="10"
+       id="path362"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 390.5 510 L 390.5 470"
+       stroke-miterlimit="10"
+       id="path364"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 260.5 650 L 260.5 540"
+       stroke-miterlimit="10"
+       id="path366"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 260 650.5 L 280 650.5"
+       stroke-miterlimit="10"
+       id="path368"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 260.5 390 L 260.5 500"
+       stroke-miterlimit="10"
+       id="path370"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 260 390.5 L 290 390.5"
+       stroke-miterlimit="10"
+       id="path372"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 280.5 650 L 280.5 470"
+       stroke-miterlimit="10"
+       id="path374"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 280 470.5 L 320 470.5"
+       stroke-miterlimit="10"
+       id="path376"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 290.5 390 L 290.5 570"
+       stroke-miterlimit="10"
+       id="path378"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 290 570.5 L 320 570.5"
+       stroke-miterlimit="10"
+       id="path380"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1250 370.5 L 1160 370.5"
+       stroke-miterlimit="10"
+       id="path382"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1250 390.5 L 1210 390.5"
+       stroke-miterlimit="10"
+       id="path384"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1290 380.5 L 1330 380.5"
+       stroke-miterlimit="10"
+       id="path386"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1250 470.5 L 1230 470.5"
+       stroke-miterlimit="10"
+       id="path388"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1250 490.5 L 1190 490.5"
+       stroke-miterlimit="10"
+       id="path390"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1290 480.5 L 1330 480.5"
+       stroke-miterlimit="10"
+       id="path392"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1250 650.5 L 1210 650.5"
+       stroke-miterlimit="10"
+       id="path394"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1250 670.5 L 1160 670.5"
+       stroke-miterlimit="10"
+       id="path396"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1290 660.5 L 1330 660.5"
+       stroke-miterlimit="10"
+       id="path398"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1250 550.5 L 1170 550.5"
+       stroke-miterlimit="10"
+       id="path400"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1250 570.5 L 1230 570.5"
+       stroke-miterlimit="10"
+       id="path402"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1290 560.5 L 1330 560.5"
+       stroke-miterlimit="10"
+       id="path404"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1330.5 480 L 1330.5 430"
+       stroke-miterlimit="10"
+       id="path406"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1330 430.5 L 1210 430.5"
+       stroke-miterlimit="10"
+       id="path408"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1210.5 430 L 1210.5 390"
+       stroke-miterlimit="10"
+       id="path410"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1330.5 380 L 1330.5 410"
+       stroke-miterlimit="10"
+       id="path412"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1330 380.5 L 1420 380.5"
+       stroke-miterlimit="10"
+       id="path414"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1330 410.5 L 1230 410.5"
+       stroke-miterlimit="10"
+       id="path416"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1230.5 410 L 1230.5 470"
+       stroke-miterlimit="10"
+       id="path418"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1330.5 560 L 1330.5 610"
+       stroke-miterlimit="10"
+       id="path420"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1330 610.5 L 1210 610.5"
+       stroke-miterlimit="10"
+       id="path422"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1210.5 610 L 1210.5 650"
+       stroke-miterlimit="10"
+       id="path424"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1330.5 660 L 1330.5 630"
+       stroke-miterlimit="10"
+       id="path426"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1330 660.5 L 1420 660.5"
+       stroke-miterlimit="10"
+       id="path428"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1330 630.5 L 1230 630.5"
+       stroke-miterlimit="10"
+       id="path430"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1230.5 630 L 1230.5 570"
+       stroke-miterlimit="10"
+       id="path432"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 350 470.5 L 390 470.5"
+       stroke-miterlimit="10"
+       id="path434"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 350 570.5 L 390 570.5"
+       stroke-miterlimit="10"
+       id="path436"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 620 390.5 L 590 390.5"
+       stroke-miterlimit="10"
+       id="path438"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 650 390.5 L 660 390.5"
+       stroke-miterlimit="10"
+       id="path440"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 620 650.5 L 590 650.5"
+       stroke-miterlimit="10"
+       id="path442"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1110 370.5 L 1010 370.5"
+       stroke-miterlimit="10"
+       id="path444"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1140 370.5 L 1160 370.5"
+       stroke-miterlimit="10"
+       id="path446"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1110 670.5 L 1010 670.5"
+       stroke-miterlimit="10"
+       id="path448"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1140 670.5 L 1160 670.5"
+       stroke-miterlimit="10"
+       id="path450"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1190.5 490 L 1190.5 810"
+       stroke-miterlimit="10"
+       id="path452"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1170.5 550 L 1170.5 230"
+       stroke-miterlimit="10"
+       id="path454"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 110 850.5 L 320 850.5"
+       stroke-miterlimit="10"
+       id="path456"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 110 890.5 L 320 890.5"
+       stroke-miterlimit="10"
+       id="path458"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 420 860.5 L 390 860.5"
+       stroke-miterlimit="10"
+       id="path460"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 420 880.5 L 390 880.5"
+       stroke-miterlimit="10"
+       id="path462"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 460 870.5 L 820 870.5"
+       stroke-miterlimit="10"
+       id="path464"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 350 850.5 L 390 850.5"
+       stroke-miterlimit="10"
+       id="path466"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 350 890.5 L 390 890.5"
+       stroke-miterlimit="10"
+       id="path468"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 920 850.5 L 850 850.5"
+       stroke-miterlimit="10"
+       id="path470"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 920 870.5 L 850 870.5"
+       stroke-miterlimit="10"
+       id="path472"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 960 860.5 L 1060 860.5"
+       stroke-miterlimit="10"
+       id="path474"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 720 520.5 L 490 520.5"
+       stroke-miterlimit="10"
+       id="path476"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 490.5 520 L 490.5 850"
+       stroke-miterlimit="10"
+       id="path478"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 820 850.5 L 490 850.5"
+       stroke-miterlimit="10"
+       id="path480"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1110 840.5 L 1090 840.5"
+       stroke-miterlimit="10"
+       id="path482"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1110 860.5 L 1060 860.5"
+       stroke-miterlimit="10"
+       id="path484"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1150 850.5 L 1180 850.5"
+       stroke-miterlimit="10"
+       id="path486"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1230 850.5 L 1210 850.5"
+       stroke-miterlimit="10"
+       id="path488"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1230.5 850 L 1230.5 810"
+       stroke-miterlimit="10"
+       id="path490"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1160.5 670 L 1160.5 810"
+       stroke-miterlimit="10"
+       id="path492"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1160 810.5 L 1090 810.5"
+       stroke-miterlimit="10"
+       id="path494"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1090.5 810 L 1090.5 840"
+       stroke-miterlimit="10"
+       id="path496"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1230 810.5 L 1190 810.5"
+       stroke-miterlimit="10"
+       id="path498"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1090.5 230 L 1090.5 200"
+       stroke-miterlimit="10"
+       id="path500"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1090 230.5 L 1160 230.5"
+       stroke-miterlimit="10"
+       id="path502"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1110 180.5 L 1060 180.5"
+       stroke-miterlimit="10"
+       id="path504"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1110 200.5 L 1090 200.5"
+       stroke-miterlimit="10"
+       id="path506"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1150 190.5 L 1180 190.5"
+       stroke-miterlimit="10"
+       id="path508"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1170 230.5 L 1230 230.5"
+       stroke-miterlimit="10"
+       id="path510"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1160.5 370 L 1160.5 230"
+       stroke-miterlimit="10"
+       id="path512"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1230.5 230 L 1230.5 190"
+       stroke-miterlimit="10"
+       id="path514"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1230 190.5 L 1210 190.5"
+       stroke-miterlimit="10"
+       id="path516"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1060.5 860 L 1060.5 180"
+       stroke-miterlimit="10"
+       id="path518"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1220 60.5 L 660 60.5"
+       stroke-miterlimit="10"
+       id="path520"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1220 80.5 L 970 80.5"
+       stroke-miterlimit="10"
+       id="path522"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1260 70.5 L 1300 70.5"
+       stroke-miterlimit="10"
+       id="path524"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1420 70.5 L 1330 70.5"
+       stroke-miterlimit="10"
+       id="path526"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 970.5 370 L 970.5 80"
+       stroke-miterlimit="10"
+       id="path528"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 970 370.5 L 1010 370.5"
+       stroke-miterlimit="10"
+       id="path530"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 660.5 390 L 660.5 60"
+       stroke-miterlimit="10"
+       id="path532"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1010.5 370 L 1010.5 320"
+       stroke-miterlimit="10"
+       id="path534"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1010 320.5 L 1420 320.5"
+       stroke-miterlimit="10"
+       id="path536"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 1010.5 670 L 1010.5 720"
+       stroke-miterlimit="10"
+       id="path538"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 1010 720.5 L 1420 720.5"
+       stroke-miterlimit="10"
+       id="path540"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 390.5 850 L 390.5 860"
+       stroke-miterlimit="10"
+       id="path542"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="DarkGreen"
+       fill="none" />
+    <path
+       d=" M 390.5 890 L 390.5 880"
+       stroke-miterlimit="10"
+       id="path544"
+       paint-order="fill stroke markers"
+       stroke-dasharray=""
+       stroke-linecap="round"
+       stroke-width="3"
+       stroke="Lime"
+       fill="none" />
+    <path
+       d=" M 813 360 A 3 3 0 1 1 812.9999985000002 359.9970000005 Z"
+       id="path546"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 813 380 A 3 3 0 1 1 812.9999985000002 379.9970000005 Z"
+       id="path548"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 853 370 A 3 3 0 1 1 852.9999985000002 369.9970000005 Z"
+       id="path550"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 813 460 A 3 3 0 1 1 812.9999985000002 459.9970000005 Z"
+       id="path552"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 813 480 A 3 3 0 1 1 812.9999985000002 479.9970000005 Z"
+       id="path554"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 853 470 A 3 3 0 1 1 852.9999985000002 469.9970000005 Z"
+       id="path556"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 723 480 A 3 3 0 1 1 722.9999985000002 479.9970000005 Z"
+       id="path558"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 893 470 A 3 3 0 1 1 892.9999985000002 469.9970000005 Z"
+       id="path560"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 893 420 A 3 3 0 1 1 892.9999985000002 419.9970000005 Z"
+       id="path562"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 773 420 A 3 3 0 1 1 772.9999985000002 419.9970000005 Z"
+       id="path564"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 773 380 A 3 3 0 1 1 772.9999985000002 379.9970000005 Z"
+       id="path566"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 893 370 A 3 3 0 1 1 892.9999985000002 369.9970000005 Z"
+       id="path568"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 893 400 A 3 3 0 1 1 892.9999985000002 399.9970000005 Z"
+       id="path570"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 793 400 A 3 3 0 1 1 792.9999985000002 399.9970000005 Z"
+       id="path572"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 793 460 A 3 3 0 1 1 792.9999985000002 459.9970000005 Z"
+       id="path574"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 113 540 A 3 3 0 1 1 112.99999850000013 539.9970000005 Z"
+       id="path576"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 113 500 A 3 3 0 1 1 112.99999850000013 499.9970000005 Z"
+       id="path578"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 423 510 A 3 3 0 1 1 422.9999985000001 509.9970000005 Z"
+       id="path580"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 423 530 A 3 3 0 1 1 422.9999985000001 529.9970000005 Z"
+       id="path582"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 463 520 A 3 3 0 1 1 462.9999985000001 519.9970000005 Z"
+       id="path584"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 813 560 A 3 3 0 1 1 812.9999985000002 559.9970000005 Z"
+       id="path586"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 813 580 A 3 3 0 1 1 812.9999985000002 579.9970000005 Z"
+       id="path588"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 853 570 A 3 3 0 1 1 852.9999985000002 569.9970000005 Z"
+       id="path590"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 813 660 A 3 3 0 1 1 812.9999985000002 659.9970000005 Z"
+       id="path592"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 813 680 A 3 3 0 1 1 812.9999985000002 679.9970000005 Z"
+       id="path594"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 853 670 A 3 3 0 1 1 852.9999985000002 669.9970000005 Z"
+       id="path596"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 893 620 A 3 3 0 1 1 892.9999985000002 619.9970000005 Z"
+       id="path598"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 773 620 A 3 3 0 1 1 772.9999985000002 619.9970000005 Z"
+       id="path600"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 773 660 A 3 3 0 1 1 772.9999985000002 659.9970000005 Z"
+       id="path602"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 893 570 A 3 3 0 1 1 892.9999985000002 569.9970000005 Z"
+       id="path604"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 793 580 A 3 3 0 1 1 792.9999985000002 579.9970000005 Z"
+       id="path606"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 793 640 A 3 3 0 1 1 792.9999985000002 639.9970000005 Z"
+       id="path608"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 893 640 A 3 3 0 1 1 892.9999985000002 639.9970000005 Z"
+       id="path610"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 893 670 A 3 3 0 1 1 892.9999985000002 669.9970000005 Z"
+       id="path612"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 723 560 A 3 3 0 1 1 722.9999985000002 559.9970000005 Z"
+       id="path614"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 523 630 A 3 3 0 1 1 522.9999985000002 629.9970000005 Z"
+       id="path616"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 523 650 A 3 3 0 1 1 522.9999985000002 649.9970000005 Z"
+       id="path618"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 563 640 A 3 3 0 1 1 562.9999985000002 639.9970000005 Z"
+       id="path620"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 923 510 A 3 3 0 1 1 922.9999985000002 509.9970000005 Z"
+       id="path622"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 923 530 A 3 3 0 1 1 922.9999985000002 529.9970000005 Z"
+       id="path624"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 963 520 A 3 3 0 1 1 962.9999985000002 519.9970000005 Z"
+       id="path626"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 893 510 A 3 3 0 1 1 892.9999985000002 509.9970000005 Z"
+       id="path628"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 893 530 A 3 3 0 1 1 892.9999985000002 529.9970000005 Z"
+       id="path630"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 713 670 A 3 3 0 1 1 712.9999985000002 669.9970000005 Z"
+       id="path632"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 713 690 A 3 3 0 1 1 712.9999985000002 689.9970000005 Z"
+       id="path634"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 753 680 A 3 3 0 1 1 752.9999985000002 679.9970000005 Z"
+       id="path636"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 683 650 A 3 3 0 1 1 682.9999985000002 649.9970000005 Z"
+       id="path638"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 683 670 A 3 3 0 1 1 682.9999985000002 669.9970000005 Z"
+       id="path640"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 683 690 A 3 3 0 1 1 682.9999985000002 689.9970000005 Z"
+       id="path642"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 683 750 A 3 3 0 1 1 682.9999985000002 749.9970000005 Z"
+       id="path644"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 593 640 A 3 3 0 1 1 592.9999985000002 639.9970000005 Z"
+       id="path646"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1053 520 A 3 3 0 1 1 1052.9999985000002 519.9970000005 Z"
+       id="path648"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1053 750 A 3 3 0 1 1 1052.9999985000002 749.9970000005 Z"
+       id="path650"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 713 350 A 3 3 0 1 1 712.9999985000002 349.9970000005 Z"
+       id="path652"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 713 370 A 3 3 0 1 1 712.9999985000002 369.9970000005 Z"
+       id="path654"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 753 360 A 3 3 0 1 1 752.9999985000002 359.9970000005 Z"
+       id="path656"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 683 350 A 3 3 0 1 1 682.9999985000002 349.9970000005 Z"
+       id="path658"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 683 390 A 3 3 0 1 1 682.9999985000002 389.9970000005 Z"
+       id="path660"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 683 370 A 3 3 0 1 1 682.9999985000002 369.9970000005 Z"
+       id="path662"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 523 390 A 3 3 0 1 1 522.9999985000002 389.9970000005 Z"
+       id="path664"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 523 410 A 3 3 0 1 1 522.9999985000002 409.9970000005 Z"
+       id="path666"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 563 400 A 3 3 0 1 1 562.9999985000002 399.9970000005 Z"
+       id="path668"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 593 400 A 3 3 0 1 1 592.9999985000002 399.9970000005 Z"
+       id="path670"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1053 290 A 3 3 0 1 1 1052.9999985000002 289.9970000005 Z"
+       id="path672"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 393 410 A 3 3 0 1 1 392.9999985000001 409.9970000005 Z"
+       id="path674"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 393 630 A 3 3 0 1 1 392.9999985000001 629.9970000005 Z"
+       id="path676"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 393 530 A 3 3 0 1 1 392.9999985000001 529.9970000005 Z"
+       id="path678"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 393 510 A 3 3 0 1 1 392.9999985000001 509.9970000005 Z"
+       id="path680"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 263 650 A 3 3 0 1 1 262.9999985000001 649.9970000005 Z"
+       id="path682"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 263 390 A 3 3 0 1 1 262.9999985000001 389.9970000005 Z"
+       id="path684"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 263 500 A 3 3 0 1 1 262.9999985000001 499.9970000005 Z"
+       id="path686"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 263 540 A 3 3 0 1 1 262.9999985000001 539.9970000005 Z"
+       id="path688"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 283 650 A 3 3 0 1 1 282.9999985000001 649.9970000005 Z"
+       id="path690"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 283 470 A 3 3 0 1 1 282.9999985000001 469.9970000005 Z"
+       id="path692"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 293 390 A 3 3 0 1 1 292.9999985000001 389.9970000005 Z"
+       id="path694"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 293 570 A 3 3 0 1 1 292.9999985000001 569.9970000005 Z"
+       id="path696"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1253 370 A 3 3 0 1 1 1252.9999985000002 369.9970000005 Z"
+       id="path698"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1253 390 A 3 3 0 1 1 1252.9999985000002 389.9970000005 Z"
+       id="path700"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1293 380 A 3 3 0 1 1 1292.9999985000002 379.9970000005 Z"
+       id="path702"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1253 470 A 3 3 0 1 1 1252.9999985000002 469.9970000005 Z"
+       id="path704"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1253 490 A 3 3 0 1 1 1252.9999985000002 489.9970000005 Z"
+       id="path706"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1293 480 A 3 3 0 1 1 1292.9999985000002 479.9970000005 Z"
+       id="path708"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1253 650 A 3 3 0 1 1 1252.9999985000002 649.9970000005 Z"
+       id="path710"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1253 670 A 3 3 0 1 1 1252.9999985000002 669.9970000005 Z"
+       id="path712"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1293 660 A 3 3 0 1 1 1292.9999985000002 659.9970000005 Z"
+       id="path714"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1253 550 A 3 3 0 1 1 1252.9999985000002 549.9970000005 Z"
+       id="path716"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1253 570 A 3 3 0 1 1 1252.9999985000002 569.9970000005 Z"
+       id="path718"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1293 560 A 3 3 0 1 1 1292.9999985000002 559.9970000005 Z"
+       id="path720"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1333 480 A 3 3 0 1 1 1332.9999985000002 479.9970000005 Z"
+       id="path722"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1333 430 A 3 3 0 1 1 1332.9999985000002 429.9970000005 Z"
+       id="path724"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1213 430 A 3 3 0 1 1 1212.9999985000002 429.9970000005 Z"
+       id="path726"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1213 390 A 3 3 0 1 1 1212.9999985000002 389.9970000005 Z"
+       id="path728"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1333 380 A 3 3 0 1 1 1332.9999985000002 379.9970000005 Z"
+       id="path730"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1333 410 A 3 3 0 1 1 1332.9999985000002 409.9970000005 Z"
+       id="path732"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1233 410 A 3 3 0 1 1 1232.9999985000002 409.9970000005 Z"
+       id="path734"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1233 470 A 3 3 0 1 1 1232.9999985000002 469.9970000005 Z"
+       id="path736"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1333 560 A 3 3 0 1 1 1332.9999985000002 559.9970000005 Z"
+       id="path738"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1333 610 A 3 3 0 1 1 1332.9999985000002 609.9970000005 Z"
+       id="path740"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1213 610 A 3 3 0 1 1 1212.9999985000002 609.9970000005 Z"
+       id="path742"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1213 650 A 3 3 0 1 1 1212.9999985000002 649.9970000005 Z"
+       id="path744"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1333 660 A 3 3 0 1 1 1332.9999985000002 659.9970000005 Z"
+       id="path746"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1333 630 A 3 3 0 1 1 1332.9999985000002 629.9970000005 Z"
+       id="path748"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1233 630 A 3 3 0 1 1 1232.9999985000002 629.9970000005 Z"
+       id="path750"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1233 570 A 3 3 0 1 1 1232.9999985000002 569.9970000005 Z"
+       id="path752"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1423 380 A 3 3 0 1 1 1422.9999985000002 379.9970000005 Z"
+       id="path754"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1423 660 A 3 3 0 1 1 1422.9999985000002 659.9970000005 Z"
+       id="path756"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 323 470 A 3 3 0 1 1 322.9999985000001 469.9970000005 Z"
+       id="path758"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 353 470 A 3 3 0 1 1 352.9999985000001 469.9970000005 Z"
+       id="path760"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 393 470 A 3 3 0 1 1 392.9999985000001 469.9970000005 Z"
+       id="path762"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 323 570 A 3 3 0 1 1 322.9999985000001 569.9970000005 Z"
+       id="path764"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 353 570 A 3 3 0 1 1 352.9999985000001 569.9970000005 Z"
+       id="path766"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 393 570 A 3 3 0 1 1 392.9999985000001 569.9970000005 Z"
+       id="path768"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 623 390 A 3 3 0 1 1 622.9999985000002 389.9970000005 Z"
+       id="path770"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 653 390 A 3 3 0 1 1 652.9999985000002 389.9970000005 Z"
+       id="path772"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 593 390 A 3 3 0 1 1 592.9999985000002 389.9970000005 Z"
+       id="path774"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 623 650 A 3 3 0 1 1 622.9999985000002 649.9970000005 Z"
+       id="path776"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 653 650 A 3 3 0 1 1 652.9999985000002 649.9970000005 Z"
+       id="path778"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 593 650 A 3 3 0 1 1 592.9999985000002 649.9970000005 Z"
+       id="path780"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1113 370 A 3 3 0 1 1 1112.9999985000002 369.9970000005 Z"
+       id="path782"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1143 370 A 3 3 0 1 1 1142.9999985000002 369.9970000005 Z"
+       id="path784"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1113 670 A 3 3 0 1 1 1112.9999985000002 669.9970000005 Z"
+       id="path786"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1143 670 A 3 3 0 1 1 1142.9999985000002 669.9970000005 Z"
+       id="path788"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 993 520 A 3 3 0 1 1 992.9999985000002 519.9970000005 Z"
+       id="path790"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1023 520 A 3 3 0 1 1 1022.9999985000002 519.9970000005 Z"
+       id="path792"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 683 290 A 3 3 0 1 1 682.9999985000002 289.9970000005 Z"
+       id="path794"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1193 490 A 3 3 0 1 1 1192.9999985000002 489.9970000005 Z"
+       id="path796"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1173 550 A 3 3 0 1 1 1172.9999985000002 549.9970000005 Z"
+       id="path798"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 113 850 A 3 3 0 1 1 112.99999850000013 849.9970000005 Z"
+       id="path800"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 113 890 A 3 3 0 1 1 112.99999850000013 889.9970000005 Z"
+       id="path802"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 423 860 A 3 3 0 1 1 422.9999985000001 859.9970000005 Z"
+       id="path804"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 423 880 A 3 3 0 1 1 422.9999985000001 879.9970000005 Z"
+       id="path806"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 463 870 A 3 3 0 1 1 462.9999985000001 869.9970000005 Z"
+       id="path808"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 323 850 A 3 3 0 1 1 322.9999985000001 849.9970000005 Z"
+       id="path810"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 353 850 A 3 3 0 1 1 352.9999985000001 849.9970000005 Z"
+       id="path812"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 323 890 A 3 3 0 1 1 322.9999985000001 889.9970000005 Z"
+       id="path814"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 353 890 A 3 3 0 1 1 352.9999985000001 889.9970000005 Z"
+       id="path816"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 923 850 A 3 3 0 1 1 922.9999985000002 849.9970000005 Z"
+       id="path818"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 923 870 A 3 3 0 1 1 922.9999985000002 869.9970000005 Z"
+       id="path820"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 963 860 A 3 3 0 1 1 962.9999985000002 859.9970000005 Z"
+       id="path822"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 723 520 A 3 3 0 1 1 722.9999985000002 519.9970000005 Z"
+       id="path824"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 493 520 A 3 3 0 1 1 492.9999985000001 519.9970000005 Z"
+       id="path826"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 823 850 A 3 3 0 1 1 822.9999985000002 849.9970000005 Z"
+       id="path828"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 853 850 A 3 3 0 1 1 852.9999985000002 849.9970000005 Z"
+       id="path830"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 823 870 A 3 3 0 1 1 822.9999985000002 869.9970000005 Z"
+       id="path832"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 853 870 A 3 3 0 1 1 852.9999985000002 869.9970000005 Z"
+       id="path834"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 493 850 A 3 3 0 1 1 492.9999985000001 849.9970000005 Z"
+       id="path836"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1113 840 A 3 3 0 1 1 1112.9999985000002 839.9970000005 Z"
+       id="path838"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1113 860 A 3 3 0 1 1 1112.9999985000002 859.9970000005 Z"
+       id="path840"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1153 850 A 3 3 0 1 1 1152.9999985000002 849.9970000005 Z"
+       id="path842"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1233 850 A 3 3 0 1 1 1232.9999985000002 849.9970000005 Z"
+       id="path844"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1183 850 A 3 3 0 1 1 1182.9999985000002 849.9970000005 Z"
+       id="path846"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1213 850 A 3 3 0 1 1 1212.9999985000002 849.9970000005 Z"
+       id="path848"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1163 670 A 3 3 0 1 1 1162.9999985000002 669.9970000005 Z"
+       id="path850"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1163 810 A 3 3 0 1 1 1162.9999985000002 809.9970000005 Z"
+       id="path852"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1093 810 A 3 3 0 1 1 1092.9999985000002 809.9970000005 Z"
+       id="path854"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1093 840 A 3 3 0 1 1 1092.9999985000002 839.9970000005 Z"
+       id="path856"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1233 810 A 3 3 0 1 1 1232.9999985000002 809.9970000005 Z"
+       id="path858"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1193 810 A 3 3 0 1 1 1192.9999985000002 809.9970000005 Z"
+       id="path860"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1093 230 A 3 3 0 1 1 1092.9999985000002 229.9970000005 Z"
+       id="path862"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1113 180 A 3 3 0 1 1 1112.9999985000002 179.9970000005 Z"
+       id="path864"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1113 200 A 3 3 0 1 1 1112.9999985000002 199.9970000005 Z"
+       id="path866"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1153 190 A 3 3 0 1 1 1152.9999985000002 189.9970000005 Z"
+       id="path868"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1093 200 A 3 3 0 1 1 1092.9999985000002 199.9970000005 Z"
+       id="path870"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1173 230 A 3 3 0 1 1 1172.9999985000002 229.9970000005 Z"
+       id="path872"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1163 370 A 3 3 0 1 1 1162.9999985000002 369.9970000005 Z"
+       id="path874"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1163 230 A 3 3 0 1 1 1162.9999985000002 229.9970000005 Z"
+       id="path876"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1233 230 A 3 3 0 1 1 1232.9999985000002 229.9970000005 Z"
+       id="path878"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1233 190 A 3 3 0 1 1 1232.9999985000002 189.9970000005 Z"
+       id="path880"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1183 190 A 3 3 0 1 1 1182.9999985000002 189.9970000005 Z"
+       id="path882"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1213 190 A 3 3 0 1 1 1212.9999985000002 189.9970000005 Z"
+       id="path884"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1063 860 A 3 3 0 1 1 1062.9999985000002 859.9970000005 Z"
+       id="path886"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1063 180 A 3 3 0 1 1 1062.9999985000002 179.9970000005 Z"
+       id="path888"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1223 60 A 3 3 0 1 1 1222.9999985000002 59.9970000005 Z"
+       id="path890"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1223 80 A 3 3 0 1 1 1222.9999985000002 79.9970000005 Z"
+       id="path892"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1263 70 A 3 3 0 1 1 1262.9999985000002 69.9970000005 Z"
+       id="path894"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1423 70 A 3 3 0 1 1 1422.9999985000002 69.9970000005 Z"
+       id="path896"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 973 370 A 3 3 0 1 1 972.9999985000002 369.9970000005 Z"
+       id="path898"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 973 80 A 3 3 0 1 1 972.9999985000002 79.9970000005 Z"
+       id="path900"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 663 390 A 3 3 0 1 1 662.9999985000002 389.9970000005 Z"
+       id="path902"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 663 60 A 3 3 0 1 1 662.9999985000002 59.9970000005 Z"
+       id="path904"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1303 70 A 3 3 0 1 1 1302.9999985000002 69.9970000005 Z"
+       id="path906"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1333 70 A 3 3 0 1 1 1332.9999985000002 69.9970000005 Z"
+       id="path908"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1013 370 A 3 3 0 1 1 1012.9999985000002 369.9970000005 Z"
+       id="path910"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1013 320 A 3 3 0 1 1 1012.9999985000002 319.9970000005 Z"
+       id="path912"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 1423 320 A 3 3 0 1 1 1422.9999985000002 319.9970000005 Z"
+       id="path914"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1013 670 A 3 3 0 1 1 1012.9999985000002 669.9970000005 Z"
+       id="path916"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1013 720 A 3 3 0 1 1 1012.9999985000002 719.9970000005 Z"
+       id="path918"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 1423 720 A 3 3 0 1 1 1422.9999985000002 719.9970000005 Z"
+       id="path920"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 393 850 A 3 3 0 1 1 392.9999985000001 849.9970000005 Z"
+       id="path922"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 393 860 A 3 3 0 1 1 392.9999985000001 859.9970000005 Z"
+       id="path924"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="green" />
+    <path
+       d=" M 393 890 A 3 3 0 1 1 392.9999985000001 889.9970000005 Z"
+       id="path926"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+    <path
+       d=" M 393 880 A 3 3 0 1 1 392.9999985000001 879.9970000005 Z"
+       id="path928"
+       paint-order="stroke fill markers"
+       stroke="none"
+       fill="lightgreen" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00aaff;fill-opacity:0;stroke:none"
+     x="81.456017"
+     y="144.72147"
+     id="text5470"><tspan
+       sodipodi:role="line"
+       x="81.456017"
+       y="144.72147"
+       id="tspan5468"><tspan
+         x="81.456017"
+         y="144.72147"
+         style="font-size:85.33333588px;fill:#00aaff;fill-opacity:1"
+         id="tspan5466">The Knob</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#787878;fill-opacity:1;stroke:none"
+     x="93.05043"
+     y="167.96144"
+     id="text5476"><tspan
+       sodipodi:role="line"
+       x="93.05043"
+       y="167.96144"
+       id="tspan5474"><tspan
+         x="93.05043"
+         y="167.96144"
+         id="tspan5472">Wireless battery-free knob with direction detection logic</tspan></tspan></text>
+</svg>

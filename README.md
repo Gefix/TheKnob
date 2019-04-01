@@ -8,7 +8,7 @@ A wireless knob that can transmit up to 10 meters the rotation direction and how
 
 ## Mechanical components
 
-1x Stepper Motor with large number of steps per revolution - the 28BYJ-48 used here requires 2048 steps for one full revolution.
+1x Stepper Motor with large number of steps per revolution - the 28BYJ-48 used here requires **2048** steps for one full revolution.
 
 1x Shaft handle for easier rotation by hand - 6cm long. The 28BYJ-48 has a 5mm diameter shaft with 1mm cuts on opposing sides. The handle 3D printed according to these specifications.
 
@@ -29,6 +29,12 @@ One long wire (12.6cm - the longest from the 350-piece set) serves as the antenn
 Two 330Ω resistors limit the current to each of the LEDs.
 
 The two 47µF capacitors near the LEDs absorb the current from single-pulse false positives when starting or stopping the rotation. When the stepper motor is halted or started in the middle of a 4-step cycle, the wrong direction can be detected for a duration of one cycle.
+
+## Digital Logic
+
+![TheKnob_bb](./doc/TheKnob_logic.svg)
+
+Built using CircuitVerse. The logic diagram is an almost exact copy of the physical version. The CW 25% and CCW 75% duty cycles are AND-ed using  U3 and U9 to generate the signal for RF transmitter. The CW 25%'s NAND is in U9, and there is no NOT afterwards since we are feeding it into a NAND gate that merges the two signals anyway. U3 is only used for inverting the CCW 75% duty cycle, before going into the merging gate on the U9.
 
 ## Source code
 
