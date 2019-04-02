@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,9 +38,9 @@
      inkscape:window-height="1261"
      id="namedview934"
      showgrid="false"
-     inkscape:zoom="0.61012373"
-     inkscape:cx="803.28076"
-     inkscape:cy="455.66594"
+     inkscape:zoom="1.7256905"
+     inkscape:cx="195.5332"
+     inkscape:cy="773.34267"
      inkscape:window-x="0"
      inkscape:window-y="48"
      inkscape:window-maximized="0"
@@ -2685,15 +2685,18 @@
          id="tspan5466">The Knob</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#787878;fill-opacity:1;stroke:none"
-     x="93.05043"
-     y="167.96144"
-     id="text5476"><tspan
+     style="font-style:normal;font-weight:normal;font-size:13.42609787px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#787878;fill-opacity:1;stroke:none;stroke-width:1.00695741"
+     x="100.34612"
+     y="169.12999"
+     id="text5476"
+     transform="scale(1.0069573,0.99309079)"><tspan
        sodipodi:role="line"
-       x="93.05043"
-       y="167.96144"
-       id="tspan5474"><tspan
-         x="93.05043"
-         y="167.96144"
-         id="tspan5472">Wireless battery-free knob with direction detection logic</tspan></tspan></text>
+       x="100.34612"
+       y="169.12999"
+       id="tspan5474"
+       style="stroke-width:1.00695741"><tspan
+         x="100.34612"
+         y="169.12999"
+         id="tspan5472"
+         style="stroke-width:1.00695741">Wireless battery-free knob with direction detection logic</tspan></tspan></text>
 </svg>

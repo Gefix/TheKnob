@@ -40,6 +40,55 @@ Built using CircuitVerse. The logic diagram is an almost exact copy of the physi
 
 None needed.
 
-# The Knob receiver
+# The Knob Receiver with OLED display v 1.0
 
-Coming soon.
+![TheKnob_bb](./doc/TheKnobReceiver_bb.png)
+
+## Description
+
+A Raspberry Pi 2B based receiver for The Knob. A node.js script utilizing the pigpio library decodes the signal, while a python script renders the gauge on a 0.95" OLED display with a SPI interface.
+
+## Electrical components
+
+All wires are from a 350-piece breadboard jumper set.
+
+One 47µF (C1) capacitor sits on the 5V rail for beauty.
+
+The RF module used is the RWS-371-6_433.92MHz hobby receiver. It has both analog and digital data outputs. Due to the weak signal and external radio noise sources, the data output is very noisy, with frequent false positives. The analog output is instead split into three bands (low, noise, high) and used for detecting the rotation signals.
+
+One long wire (12.6cm - the longest from the 350-piece set) serves as the antenna for the receiver.
+
+Two of the four resistors - the second 1.0MΩ and the 4.3MΩ - are connected in parallel, thereby providing ~811kΩ resistance. This is then connected in series with the first resistor of 510kΩ and the other 1.0MΩ resistor so that we have two step-down voltages as follows:
+
+Signal → 510kΩ → V1 → 1.0MΩ → V2 → 811kΩ → GND
+
+## Digital Logic
+
+By dividing the analog data output in two separate voltages and using a 6xNOT CMOS as a '1-bit ADC' the Raspberry PI's purely digital IO can now 'see' three values instead of just two. The following table illustrates how the analog input is transformed into separate voltage signals and then inverted through the NOT gates into digital signals.
+
+| Analog          | V1        | V2        | D1   | D2   |
+| --------------- | --------- | --------- | ---- | ---- |
+| Low    `<` 1.0V | `<` 0.78V | `<` 0.35V | 3.3V | 3.3V |
+| Noise `~` 2.5V  | `~` 1.95V | `~` 0.87V | 0V   | 3.3V |
+| High   `>` 4.0V | `>` 3.12V | `>` 1.40V | 0V   | 0V   |
+
+## Source code
+
+The /src/knob folder contains the node.js signal decoder and a utility run.sh script.
+
+The /src/lcd folder contains the python OLED 'gauge' renderer. It reads integer values from stdin and renders them on the display (currently as a progress bar).
+
+The following steps show one way to install and run the code:
+
+1. Enable SPI ('sudo raspi-config' → 'Interfacing Options' → 'P4 SPI' → 'Yes' → 'Finish' → 'sudo reboot now')
+2. Copy the src folder into the /home/pi folder (without the src prefix).
+3. cd ~/lcd
+4. sudo apt-get install python-pip
+5. sudo pip install spidev
+6. wget https://gist.githubusercontent.com/TheRayTracer/dd12c498e3ecb9b8b47f/raw/70171d5648bf965632c9f229a2eadf3b44659661/SSD1331.py
+7. cd ~/knob && npm install
+8. chmod +x ./run.sh
+9. ./run.sh
+
+To make the receiver code run automatically after a reboot add '@reboot /home/pi/knob/run.sh' to the root crontab (sudo crontab -e)
+
