@@ -6,6 +6,10 @@
 
 A wireless knob that can transmit up to 10 meters the rotation direction and how many steps the handle has rotated (by sending one radio pulse per 4 motor steps). No battery, near instant reaction times and no programming required - pure analog and boolean logic circuitry. It takes < 10ms from the time the motor shaft starts rotating to the time the LED lights and the first FM signal pulse begins transmission.
 
+![TheKnob](<https://s3.eu-central-1.amazonaws.com/gefix/TheKnob/TheKnob.gif>)
+
+> Demonstration video: https://www.youtube.com/watch?v=K2yqE7SBStU
+
 ## Mechanical components
 
 1x Stepper Motor with large number of steps per revolution - the 28BYJ-48 used here requires **2048** steps for one full revolution.
@@ -32,7 +36,7 @@ The two 47µF capacitors near the LEDs absorb the current from single-pulse fals
 
 ## Digital Logic
 
-![TheKnob_bb](./doc/TheKnob_logic.svg)
+![TheKnob_logic](./doc/TheKnob_logic.svg)
 
 Built using CircuitVerse. The logic diagram is an almost exact copy of the physical version. The CW 25% and CCW 75% duty cycles are AND-ed using  U3 and U9 to generate the signal for RF transmitter. The CW 25%'s NAND is in U9, and there is no NOT afterwards since we are feeding it into a NAND gate that merges the two signals anyway. U3 is only used for inverting the CCW 75% duty cycle, before going into the merging gate on the U9.
 
@@ -42,7 +46,7 @@ None needed.
 
 # The Knob Receiver with OLED display v 1.0
 
-![TheKnob_bb](./doc/TheKnobReceiver_bb.png)
+![TheKnobReceiver_bb](./doc/TheKnobReceiver_bb.png)
 
 ## Description
 
